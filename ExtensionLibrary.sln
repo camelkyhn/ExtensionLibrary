@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionLibrary", "ExtensionLibrary\ExtensionLibrary.csproj", "{FAE7E8A9-C444-4EB6-8472-52F73F3EC164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE7E8A9-C444-4EB6-8472-52F73F3EC164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE7E8A9-C444-4EB6-8472-52F73F3EC164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE7E8A9-C444-4EB6-8472-52F73F3EC164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE7E8A9-C444-4EB6-8472-52F73F3EC164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
