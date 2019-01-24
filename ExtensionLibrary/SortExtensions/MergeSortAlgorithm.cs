@@ -59,8 +59,8 @@ namespace ExtensionLibrary.SortExtensions
                 else if (rightList.Count.IsGreaterThanZero())
                 {
                     result.Add(rightList.First());
-                    rightList.Remove(rightList.First());    
-                }    
+                    rightList.Remove(rightList.First());
+                }
             }
 
             return result;
